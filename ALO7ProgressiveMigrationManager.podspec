@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/alo7/ALO7ProgressiveMigrationManager"  
   s.license          = 'BSD'  
   s.author           = { "fogisland" => "zhukaihua1225@gmail.com" }  
-  s.source           = { :git => "https://github.com/alo7/ALO7ProgressiveMigrationManager.git", :tag => s.version.to_s }   
+  s.source           = { :git => "https://github.com/AndrewMcDrew/ALO7ProgressiveMigrationManager.git", :tag => s.version.to_s }   
   s.platform     = :ios, '7.0'    
   s.requires_arc = true  
   s.source_files = 'ALO7ProgressiveMigrationManager/*'  
